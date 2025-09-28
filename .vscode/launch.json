@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SimpleMessengerApplication<SimpleMessenger>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.piotrd.SimpleMessenger.SimpleMessengerApplication",
+            "projectName": "SimpleMessenger",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
